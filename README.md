@@ -1,2 +1,5 @@
-# PSIP_JM_L1
-- JAN - Miński
+# PSIP\_JM\_L1
+
+* JAN - Miński
+* Maciej - Kutnowski
+
